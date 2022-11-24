@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Мой район</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Перекресток Чокина - 1 Мая<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Дом</string>
+    <string name="marker1_txt_click">Дом</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Мой дом<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/HOME/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Казахтелеком АТС-47</string>
+    <string name="marker2_txt_click">Казахтелеком АТС-47</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Казахтелеком</b> <BR>
+        АО «Казахтелеком» — крупнейшая телекоммуникационная компания Казахстана, имеет статус национального оператора связи.<BR>
+        НАК «Казахтелеком» образована 17 июня 1994 года.<BR>
+        Основные офисы находятся в городах Астана и Алматы, региональные представительства — во всех частях Казахстана.<BR>
+        Сайт: https://telecom.kz/ru/<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/Kazakhtelecom/index.html</string>
+
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Биосфера</string>
+    <string name="marker3_txt_click">Биосфера</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Аптека "Биосфера".</b>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/Biosphere/index.html</string>
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Школа-Гимназия №9</string>
+    <string name="marker4_txt_click">Школа-Гимназия №9</string>
+    <string name="marker4_info">
+        <![CDATA[
+        Школа-Гимназия №9
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/Gymnasium/index.html</string>
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Ломбард "Пегас"</string>
+    <string name="marker5_txt_click">Ломбард "Пегас"</string>
+    <string name="marker5_info">
+        <![CDATA[
+        Ломбард "Пегас"
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/Pawnshop/index.html</string>
+
+    <string name="marker6_id">m6</string>
+    <string name="marker6_title">Лаунж-бар Pulse</string>
+    <string name="marker6_txt_click">Лаунж-бар Pulse</string>
+    <string name="marker6_info">
+        <![CDATA[
+        Лаунж-бар Pulse
+        ]]>
+        </string>Lounge_bar
+    <string name="marker6_file">file:///android_asset/Lounge_bar/index.html</string>
+
+
+</resources>
